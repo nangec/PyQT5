@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'runMainWinHorizontalLayout.py'
+# Form implementation generated from reading ui file 'RunMainWinHorizontalLayout.py'
 #
 # Created by: PyQt5 UI code generator 5.13.0
 #

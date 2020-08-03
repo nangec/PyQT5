@@ -32,13 +32,6 @@
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton_4">
-       <property name="text">
-        <string>PushButton</string>
-       </property>
-      </widget>
-     </item>
-     <item>
       <widget class="QRadioButton" name="radioButton">
        <property name="text">
         <string>RadioButton</string>
@@ -46,6 +39,19 @@
       </widget>
      </item>
     </layout>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>450</y>
+      <width>129</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>PushButton</string>
+    </property>
    </widget>
    <widget class="QWidget" name="">
     <property name="geometry">
